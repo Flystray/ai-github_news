@@ -7,9 +7,9 @@
 ## 最新推荐
 
 ### 2026-04-09
-- **[AutoGPT](projects/2026-04-09.md)** ⭐0 — Topics
-- **[ollama](projects/2026-04-09.md)** ⭐0 — Topics
-- **[transformers](projects/2026-04-09.md)** ⭐0 — Topics
+- **[AutoGPT](projects/2026-04-09.md)** ⭐183 — Topics
+- **[ollama](projects/2026-04-09.md)** ⭐168 — Topics
+- **[transformers](projects/2026-04-09.md)** ⭐159 — Topics
 [查看全部 →](projects/2026-04-09.md)
 
 ---
